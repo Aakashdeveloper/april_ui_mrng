@@ -1,0 +1,97 @@
+https://code.visualstudio.com/ (install)
+https://github.com/ (create account)
+https://github.com/Aakashdeveloper (follow)
+https://github.com/developerTech (follow)
+https://git-scm.com/downloads (install)
+https://nodejs.org/en/ (install)
+
+chrome extension (https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
+
+vscode extension
+> vscode-icons
+> gitlens
+> githistory
+> eslint
+> tabnine
+> spellCheck
+
+
+/////////////////////////
+html/html5      > Raw Structure
+css/CSS3        > Design (look & feel)
+bootstrap3/4/5  > Responsive (fit on all screen)
+javascript      > Add Logics
+
+> DataTypes
+> variable
+> alert console prompt
+> Operations
+> String literals
+> String Operations
+> Math
+> localStorage
+> sessionStorage
+> cookies
+> let, const
+> github 
+> condition
+> if else
+> ternary Operations
+> Date
+> switch
+> array
+> loops
+> Rest
+> Functions
+> spread
+> Es6
+    > maps,filter
+> regex
+> destructuring
+> Closures
+> Hoisting
+> object 
+> JSON
+> Es6
+    > Transpile
+    > import export
+> package.JSON
+> npm
+> this
+> Es6
+    > classes
+> Prototypes
+> DoM
+> Calc
+> Form validation
+> Event
+> dummyAPi jsonserver 
+> dark/light mode
+> currenyConvertor
+> promis
+> async await
+> screen
+> Geolocation
+> Dynamic DropDown
+> set interval
+> set timeout
+> debouncing
+> Progress bar
+> Call/Apply
+> Basic Jquery
+> Weather application
+> ajax
+> DataTables
+> sets
+> fabonicci
+> factorial
+> palindrome
+> tictactogame
+
+>>>>>>><<<<<<<<
+html > very first tag (rapper over whole code)
+head > all the linking (css,javascript)
+    > thing that  is not visible to user
+    > excpet title 
+
+body> all the thing which we want to show to the user
