@@ -95,3 +95,21 @@ head > all the linking (css,javascript)
     > excpet title 
 
 body> all the thing which we want to show to the user
+
+Inline 
+> Start in the same line
+> Only Consume the space which is required
+
+Block 
+> Always start from new line
+> Take whole width of screen
+
+
+
+Profile
+>>>><<<<<<<
+Name
+Image
+Something about
+Skills
+Footer
